@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @administrator2992
-- 👀 I’m interested in random programming
+- 👀 I’m interested in random programming (for IoT architecture)
 - 🌱 I’m currently learning esp for IoT system
 - 💞️ I’m looking to collaborate on IoT Project
 - 📫 How to reach me ?, contact to my email: ahmad.nabhaan@students.amikom.ac.id
