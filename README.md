@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @administrator2992
-- 👀 I’m interested in random programming (for IoT architecture)
-- 🌱 I’m currently learning esp for IoT system
-- 💞️ I’m looking to collaborate on IoT Project
+- 👀 I’m interested in Machine Learning and AI
+- 🌱 I’m currently learning Yolo architecture
+- 💞️ I’m looking to collaborate on Deep Learning AI
 - 📫 How to reach me ?, contact to my email: ahmad.nabhaan@students.amikom.ac.id
 
 <!---
