@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @administrator2992
 - 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning Yolo architecture
+- 🌱 I’m currently learning infererence latency predictor
 - 💞️ I’m looking to collaborate on Deep Learning AI
 - 📫 How to reach me ?, contact to my email: ahmad.nabhaan@students.amikom.ac.id
 
