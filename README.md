@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @administrator2992
-- 👀 I’m interested in Machine Learning and AI
-- 🌱 I’m currently learning infererence latency predictor
-- 💞️ I’m looking to collaborate on Deep Learning AI
+- 👀 I’m interested in AI Systems and Edge AI (Hardware/Software Optimization of AI Runtime on Edge Devices)
+- 🌱 I’m currently learning to optimize hardware performance
+- 💞️ I’m looking to collaborate on AI Systems
 - 📫 How to reach me ?, contact to my email: nabhaan.ahmad.ln@gmail.com
 
 <!---
